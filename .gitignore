@@ -1,0 +1,6 @@
+./data
+**.*safetensors
+__pycache__
+ckpt
+Dion/models
+
